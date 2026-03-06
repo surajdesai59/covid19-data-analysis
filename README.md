@@ -91,7 +91,7 @@ These filters allow dynamic exploration of the data.
 - Cleaned dataset
 - Data cleaning notebook
 - Power BI dashboard
-- Dashboard screenshots
+
 
 ---
 
